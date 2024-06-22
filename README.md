@@ -1,2 +1,2 @@
 # juiceweb
-Animated juice webpage
+Animated webpage for juice store
